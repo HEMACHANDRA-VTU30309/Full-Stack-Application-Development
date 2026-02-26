@@ -1,0 +1,32 @@
+'
+student-registration/
+│
+├── server.js
+├── package.json
+├── .env
+│
+├── public/
+│   ├── style.css
+│
+└── views/
+    ├── register.ejs
+    └── students.ejs
+'
+
+
+mkdir student-registration && cd student-registration && mkdir public views && type nul > server.js && type nul > package.json && type nul > .env && type nul > public\style.css && type nul > views\register.ejs && type nul > views\students.ejs
+
+
+Install dependencies:
+---npm init -y  [package.json]
+---npm install express mysql2 body-parser ejs dotenv   [package-lock.json]
+
+-------------------------------------------------------------------------------------------------------------
+
+Run Project:
+
+        node server.js
+
+    Open browser:
+
+        http://localhost:3000
