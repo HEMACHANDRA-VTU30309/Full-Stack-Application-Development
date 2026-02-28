@@ -4,4 +4,5 @@
 |------|--------|
 | Student Registration System | [TASK_1](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_1)
 | Data Retrieval Dashboard | [TASK_2](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_2)
+| Login System with Validation | [TASK_3](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_3)
 
