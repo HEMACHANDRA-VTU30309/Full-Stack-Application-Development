@@ -13,9 +13,10 @@
 | Login System with Validation | [TASK_9](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_9)
 | Login System with Validation | [TASK_10](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_10)
 | Login System with Validation | [TASK_11](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_11)
-| Login System with Validation | [TASK_12](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_12)
-| Login System with Validation | [TASK_13](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_13)
-| Login System with Validation | [TASK_14](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_14)
-| Login System with Validation | [TASK_15](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_15)
+| RESTful API for Product Management | [TASK_12](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_12)
+| RESTful application_files | [TASK_13](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_13)
+| MicroProductService | [TASK_14](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_14)
+| MicroProduct | [TASK_15](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_15)
+| API Gateway | [TASK_16](https://github.com/HEMACHANDRA-VTU30309/Full-Stack-Application-Development/tree/TASK_16)
 
 
